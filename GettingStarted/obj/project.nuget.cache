@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bU6xJNWVYXP+es93L6Mhii6loMDmd1h9GkkSjO7tUJzmw/bHQSI3kizcpubGFKVKkJgeIDdzd+gYS1dq49vyuQ==",
+  "dgSpecHash": "HZK7vbbCSBW2XKuHLoz2Zz9bBZyMSHuMg1ST82eDl3i4iuJeuGedstKz7k4hCIjaHLCHSYB5nQAicHqrXWXWwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anjoy\\ALL DEV WORK\\MASSTRANSITDEMO\\MassTransitDemo\\GettingStarted\\GettingStarted.csproj",
+  "projectFilePath": "c:\\Users\\anjoy\\ALL DEV WORK\\MASSTRANSITDEMO\\MassTransitDemo\\GettingStarted\\GettingStarted.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anjoy\\.nuget\\packages\\automatonymous\\5.1.1\\automatonymous.5.1.1.nupkg.sha512",
     "C:\\Users\\anjoy\\.nuget\\packages\\greenpipes\\4.0.0\\greenpipes.4.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anjoy\\ALL DEV WORK\\MASSTRANSITDEMO\\MassTransitDemo\\GettingStarted\\GettingStarted.csproj": {}
+    "c:\\Users\\anjoy\\ALL DEV WORK\\MASSTRANSITDEMO\\MassTransitDemo\\GettingStarted\\GettingStarted.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anjoy\\ALL DEV WORK\\MASSTRANSITDEMO\\MassTransitDemo\\GettingStarted\\GettingStarted.csproj": {
+    "c:\\Users\\anjoy\\ALL DEV WORK\\MASSTRANSITDEMO\\MassTransitDemo\\GettingStarted\\GettingStarted.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anjoy\\ALL DEV WORK\\MASSTRANSITDEMO\\MassTransitDemo\\GettingStarted\\GettingStarted.csproj",
+        "projectUniqueName": "c:\\Users\\anjoy\\ALL DEV WORK\\MASSTRANSITDEMO\\MassTransitDemo\\GettingStarted\\GettingStarted.csproj",
         "projectName": "GettingStarted",
-        "projectPath": "C:\\Users\\anjoy\\ALL DEV WORK\\MASSTRANSITDEMO\\MassTransitDemo\\GettingStarted\\GettingStarted.csproj",
+        "projectPath": "c:\\Users\\anjoy\\ALL DEV WORK\\MASSTRANSITDEMO\\MassTransitDemo\\GettingStarted\\GettingStarted.csproj",
         "packagesPath": "C:\\Users\\anjoy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anjoy\\ALL DEV WORK\\MASSTRANSITDEMO\\MassTransitDemo\\GettingStarted\\obj\\",
+        "outputPath": "c:\\Users\\anjoy\\ALL DEV WORK\\MASSTRANSITDEMO\\MassTransitDemo\\GettingStarted\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjoy\\AppData\\Roaming\\NuGet\\NuGet.Config"
